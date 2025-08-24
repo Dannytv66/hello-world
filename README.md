@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hello, I am Daniel Varghese, and I am an undergraduate in computer science.
